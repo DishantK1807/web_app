@@ -1,0 +1,5 @@
+Flask
+Flask-Session
+Flask-MySQLdb
+Flask-Mail
+PyJWT
